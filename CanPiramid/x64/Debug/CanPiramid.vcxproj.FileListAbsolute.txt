@@ -1,0 +1,2 @@
+C:\Users\egork\source\repos\CanPiramid\x64\Debug\CanPiramid.exe
+C:\Users\egork\source\repos\CPlusPractis\CanPiramid\x64\Debug\CanPiramid.exe

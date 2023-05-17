@@ -1,0 +1,5 @@
+﻿  Can.cpp
+C:\Users\egork\source\repos\CPlusPractis\CanPiramid\Can.cpp(33,21): warning C4244: +=: преобразование "__int64" в "long", возможна потеря данных
+  CanPiramid.cpp
+  Создание кода...
+  CanPiramid.vcxproj -> C:\Users\egork\source\repos\CPlusPractis\CanPiramid\x64\Debug\CanPiramid.exe
